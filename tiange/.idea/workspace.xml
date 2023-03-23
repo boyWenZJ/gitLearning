@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c2ca8c97-0527-43ff-87c6-4003974174e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiange-admin/src/main/java/com/tiange/admin/TiangeAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiange-admin/src/main/java/com/tiange/admin/TianGeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiange-admin/src/test/java/com/tiange/admin/TiangeAdminApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiange-admin/src/test/java/com/tiange/admin/TianGeApplicationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tiange-admin/src/main/resources" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -97,6 +95,7 @@
       <workItem from="1679553354762" duration="2375000" />
       <workItem from="1679555781037" duration="5248000" />
       <workItem from="1679563015498" duration="150000" />
+      <workItem from="1679563397784" duration="550000" />
     </task>
     <servers />
   </component>
