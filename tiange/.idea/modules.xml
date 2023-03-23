@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tiange.iml" filepath="$PROJECT_DIR$/tiange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiange-admin/tiange-admin.iml" filepath="$PROJECT_DIR$/tiange-admin/tiange-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiange-common/tiange-common.iml" filepath="$PROJECT_DIR$/tiange-common/tiange-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiange-system/tiange-system.iml" filepath="$PROJECT_DIR$/tiange-system/tiange-system.iml" />
+    </modules>
+  </component>
+</project>
