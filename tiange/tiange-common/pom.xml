@@ -5,13 +5,15 @@
     <parent>
         <groupId>com.tiange</groupId>
         <artifactId>tiange</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <packaging>jar</packaging>
 
     <artifactId>tiange-common</artifactId>
 
-    <description>tiange-common project for Spring Boot</description>
+    <description>
+        common通用模块
+    </description>
 
     <dependencies>
         <dependency>
@@ -23,6 +25,11 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid-spring-boot-starter</artifactId>
         </dependency>
 
         <dependency>

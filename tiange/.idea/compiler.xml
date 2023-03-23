@@ -20,7 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="tiange" options="-parameters" />
+      <module name="tiange" options="" />
       <module name="tiange-admin" options="-parameters" />
       <module name="tiange-common" options="-parameters" />
       <module name="tiange-system" options="-parameters" />

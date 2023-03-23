@@ -5,18 +5,26 @@
     <parent>
         <groupId>com.tiange</groupId>
         <artifactId>tiange</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <packaging>jar</packaging>
 
     <artifactId>tiange-system</artifactId>
 
-    <description>tiange-system project for Spring Boot</description>
+    <description>
+        system系统模块
+    </description>
 
     <dependencies>
         <dependency>
             <groupId>com.tiange</groupId>
             <artifactId>tiange-common</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
         </dependency>
     </dependencies>
 

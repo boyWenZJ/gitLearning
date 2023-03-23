@@ -5,14 +5,16 @@
     <parent>
         <groupId>com.tiange</groupId>
         <artifactId>tiange</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <packaging>jar</packaging>
 
     <artifactId>tiange-admin</artifactId>
 
-    <description>tiange-admin project for Spring Boot</description>
+    <description>
+        admin后台管理模块
+    </description>
 
     <dependencies>
         <dependency>
@@ -22,7 +24,6 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>2.3.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -30,11 +31,7 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>com.mysql</groupId>
-            <artifactId>mysql-connector-j</artifactId>
-            <scope>runtime</scope>
-        </dependency>
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
